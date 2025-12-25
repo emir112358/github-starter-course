@@ -146,3 +146,28 @@ Emir was here
 * Emir was here
 * # Emir but bigger
 **Emir but bolder** 
+
+
+
+Use Markdown to tell us a little bit about yourself. Specifically, tell us:
+- your name
+- a photo of you
+- year
+- major
+- why you enrolled in this course
+- what got you interested in neuroscience /or psychology
+- what your career plans are (or post-graduation plans, if you haven't figured that out yet!)
+
+# Markdown Practice
+* ~~Ich bin Emir~~  
+* My name is *Emir*  
+* <ins>Remember This Rules!</ins>  
+  1. <sub>Past</sub> is finished.  
+  2. <sup>Future</sup> is not arrived.  
+  3. **Now**, live!
+  * BTW take a look on this [movie](https://share.google/HQWmCdg9lEoL5aU5L)  
+
+<!--This content will not appear.-->
+<!-- Why??? -->
+<!-- This is non of your business -->
+
